@@ -1,5 +1,6 @@
 # <font color="red"><strong>Multiclass Classification of Diseased State of Thyroid</strong></font>
 
+#### <span style="color:red">Please be aware that, for privacy reasons, this repository has been created as a duplicate of my original repository, with minor modifications.</span>
 
 ## **Background:**
 
