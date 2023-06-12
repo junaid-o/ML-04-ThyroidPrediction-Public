@@ -1,0 +1,2 @@
+age,sex,on_thyroxine,query_on_thyroxine,on_antithyroid_medication,sick,pregnant,thyroid_surgery,I131_treatment,query_hypothyroid,query_hyperthyroid,lithium,goitre,tumor,hypopituitary,psych,TSH,T3,TT4,T4U,FTI,referral_source_SVHC,referral_source_SVHD,referral_source_SVI,referral_source_other,major_class_endcoded
+23.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.1,2.0,102.0,0.97,107.0,0,0,0,1,0

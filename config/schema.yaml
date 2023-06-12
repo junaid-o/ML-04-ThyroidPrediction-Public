@@ -1,0 +1,70 @@
+columns:
+  age: float
+  TSH: float
+  T3: float
+  TT4: float
+  T4U: float
+  FTI: float
+  sex: category
+  on_thyroxine: category
+  query_on_thyroxine: category
+  on_antithyroid_medication: category
+  sick: category
+  pregnant: category
+  thyroid_surgery: category
+  I131_treatment: category
+  query_hypothyroid: category
+  query_hyperthyroid: category
+  lithium: category
+  goitre: category
+  tumor: category
+  hypopituitary: category
+  psych: category
+  referral_source_SVHC: category
+  referral_source_SVHD: category
+  referral_source_SVI: category
+  referral_source_other: category
+  major_class_encoded: category
+  
+numerical_columns:
+  -  age
+  -  TSH
+  -  T3
+  -  TT4
+  -  T4U
+  -  FTI
+
+
+categorical_columns:
+  -  sex
+  -  on_thyroxine
+  -  query_on_thyroxine
+  -  on_antithyroid_medication
+  -  sick
+  -  pregnant
+  -  thyroid_surgery
+  -  I131_treatment
+  -  query_hypothyroid
+  -  query_hyperthyroid
+  -  lithium
+  -  goitre
+  -  tumor
+  -  hypopituitary
+  -  psych
+  -  referral_source_SVHC
+  -  referral_source_SVHD
+  -  referral_source_SVI
+  -  referral_source_other
+
+target_column: major_class_encoded
+
+domain_value:
+  major_class_encoded:
+    - 0
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7

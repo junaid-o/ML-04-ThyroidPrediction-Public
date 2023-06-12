@@ -1,0 +1,16 @@
+PyYAML
+dill
+six
+evidently
+flask
+numpy
+pandas
+matplotlib
+scikit-learn
+seaborn
+plotly
+imbalanced-learn
+gunicorn
+natsort
+ydata-profiling
+boto3
