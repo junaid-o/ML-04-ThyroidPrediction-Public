@@ -1,4 +1,4 @@
-# <h1 style="color: red; text-align:center; font-weight: bold">Multiclass Classification of Diseased State of Thyroid</h1>
+# <h1 style="color: red; text-align:center; font-weight: bold">Thyoid Disease Classification: A Multiclass Classfication Approach</h1>
 
 
 ## **Background:**

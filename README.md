@@ -1,4 +1,4 @@
-# <font color="red"><strong>Multiclass Classification of Diseased State of Thyroid</strong></font>
+# <font color="red"><strong>Thyroid Disease Classification: A Multiclass Classification Approach</strong></font>
 
 
 ## **Background:**
