@@ -1,4 +1,4 @@
-# <h1 style="color: red; text-align:center; font-weight: bold">Thyoid Disease Classification: A Multiclass Classfication Approach</h1>
+# <h1 style="color: red; text-align:center; font-weight: bold">Thyroid Disease Classification: A Multiclass Classfication Approach</h1>
 
 
 ## **Background:**
