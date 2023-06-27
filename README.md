@@ -16,12 +16,6 @@ The main goal is to predict the estimated risk on a patient's chance of obtainin
 </center>
 
 
-## **Deployment**
-
-<center>
-<a href="/"><button data-md-button>Deployment</button></a> 
-</center>
-
 ## **Demo**
 [DEMO](https://youtu.be/VFK3RyNAre8)
 
