@@ -112,8 +112,8 @@ env.bak/
 venv.bak/
 .vscode/
 # secret.py
-ThyroidPrdiction/secrets/secret.py
-secret.py
+#ThyroidPrdiction/secrets/secret.py
+#secret.py
 
 # Spyder project settings
 .spyderproject
