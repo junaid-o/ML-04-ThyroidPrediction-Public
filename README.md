@@ -23,6 +23,14 @@ The main goal is to predict the estimated risk on a patient's chance of obtainin
 [![Video Thumbnail](Docs/app_ui.png)](https://youtu.be/VFK3RyNAre8)
 
 
+##  **Documentations**
+
+- [**REPORT**](Docs/Report.md)
+- [**HLD**](Docs/HLD_1.0v.docx)
+- [**LLD**](Docs/LLD_UGV.docx)
+- [**WIREFRAME**](Docs/Wireframe.docx)
+- [**DevelopersNotes**](Docs/DeveloperNotes.md)
+
 ## **Tools & Techniques**
 
 *   `Data versioning` using time stamp
