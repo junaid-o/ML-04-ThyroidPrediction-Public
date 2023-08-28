@@ -2,6 +2,12 @@
 
 #### <span style="color:red">Please be aware that, for privacy reasons, this repository has been created as a duplicate of my original repository, with minor modifications.</span>
 
+
+![Python 3.10.12](https://img.shields.io/badge/python-3.10.10-blue.svg)
+![Static Badge](https://img.shields.io/badge/Scikit_learn-orange.svg)
+![Static Badge](https://img.shields.io/badge/yData_Profiling-purple.svg)
+![Static Badge](https://img.shields.io/badge/Evidently-maroon.svg)
+
 ## **Background:**
 
 Thyroid disease is a common cause of medical diagnosis and prediction, with an onset that is difficult to forecast in medical research. The thyroid gland is one of our body's most vital organs. Thyroid hormone releases are responsible for metabolic regulation. Hyperthyroidism and hypothyroidism are one of the two common diseases of the thyroid that releases thyroid hormones in regulating the rate of body's metabolism.
